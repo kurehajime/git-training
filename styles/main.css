@@ -1,6 +1,7 @@
 body {
-  background-color: rgb(19, 124, 59);
+    background-color: rgb(19, 124, 59);
 }
 .btn-primary{
-  background-color: #ea9a32;   
+    background-color: #ea9a32;   
+    border-bottom-color: brown;
 }
